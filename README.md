@@ -38,4 +38,6 @@ Python BackendAPI is responsible for creating and updating order list, order inf
 Firebase Database is the recommended database for this real time application
 
 ## Application flow
-[MIT](https://choosealicense.com/licenses/mit/)
+![workflows](workflow.png)
+
+
